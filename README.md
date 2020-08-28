@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am helping people and organizations to make better decisions using statistics, data science, and R/rstats one line of code at a time.
+
+
+
 <!--
 **psolymos/psolymos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
