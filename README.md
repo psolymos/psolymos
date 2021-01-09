@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am helping people and organizations to make better decisions using statistics, data science, and R/rstats.
+I help people and organizations makeing better decisions using statistics, data science, and R/rstats.
 
 
 
