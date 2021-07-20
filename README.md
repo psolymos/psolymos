@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I help people and organizations makeing better decisions using statistics, data science, and R/rstats.
-
+I am bridging the gap between data and decision making using data analytics, visualization, and infrastructure automation.
 
 
 <!--
