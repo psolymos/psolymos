@@ -5,7 +5,7 @@ I am bridging the gap between data and decision making using data analytics, vis
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psolymos&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psolymos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psolymos)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **psolymos/psolymos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
