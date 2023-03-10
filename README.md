@@ -7,6 +7,8 @@ R packages by me: <https://psolymos.r-universe.dev/>
 
 Writing about data app hosting: <https://hosting.analythium.io/>
 
+Edmonton R User Group organizer: <https://yegrug.github.io/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psolymos&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psolymos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
