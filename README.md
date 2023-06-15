@@ -4,7 +4,7 @@ My name is Péter Sólymos.
 I am bridging the gap between data and decision making using data analytics, visualization, and infrastructure automation.
 
 * R packages by me: <https://psolymos.r-universe.dev/>
-* Writing about data app hosting: <https://hosting.analythium.io/>
+* Writing about Shiny hosting: <https://hosting.analythium.io/>
 * Edmonton R User Group organizer: <https://yegrug.github.io/>
 * Personal website with publications: <https://peter.solymos.org/>
 
